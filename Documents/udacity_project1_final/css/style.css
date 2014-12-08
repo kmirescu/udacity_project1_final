@@ -1,0 +1,59 @@
+/* Enter your custom CSS here */
+body {
+	font-family: 'Lucida Grande', sans-serif;
+	color: #666666;
+}
+
+.container {
+	margin: 20px 10px 0px 30px;
+	width:1000px;
+}
+
+h1 {
+    margin-bottom: 40px;
+	font-size: 50px;
+}
+
+h2, h3 {
+	color: #f07c17;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 0px;
+}
+
+.list {
+	border-style:solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	padding: 35px;
+	width: 364px;
+    margin-top: 10px;
+}
+
+img {
+	width:364px;
+	height:auto;
+}
+
+li {
+	margin: 10px 0;
+}
+
+p {
+	line-height: 30px;
+    padding-left: 20px;
+}
+
+.p_subhead {
+	padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+col-md-4 {
+    margin-right: 40px;
+}
+
+col-md-6 {
+    margin-left: 100px;
+}
+
